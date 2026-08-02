@@ -1,0 +1,12 @@
+[project]
+name = "react-agent-llamaindex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "llama-index>=0.14.23",
+    "llama-index-llms-litellm>=0.7.1",
+    "llama-index-llms-ollama>=0.10.1",
+    "python-dotenv>=1.2.2",
+]

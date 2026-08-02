@@ -175,7 +175,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# pytype static type analyzer
+# pytype color type analyzer
 .pytype/
 
 # Cython debug symbols
@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.idea/
+
+.claude/
+
+*uv.lock
+
